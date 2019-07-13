@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UDEMY_ToDo_App_withHooks/static/css/main.795991f2.chunk.css",
+    "main.js": "/UDEMY_ToDo_App_withHooks/static/js/main.058eea53.chunk.js",
+    "main.js.map": "/UDEMY_ToDo_App_withHooks/static/js/main.058eea53.chunk.js.map",
+    "runtime~main.js": "/UDEMY_ToDo_App_withHooks/static/js/runtime~main.53b214ed.js",
+    "runtime~main.js.map": "/UDEMY_ToDo_App_withHooks/static/js/runtime~main.53b214ed.js.map",
+    "static/js/2.3a43d96c.chunk.js": "/UDEMY_ToDo_App_withHooks/static/js/2.3a43d96c.chunk.js",
+    "static/js/2.3a43d96c.chunk.js.map": "/UDEMY_ToDo_App_withHooks/static/js/2.3a43d96c.chunk.js.map",
+    "index.html": "/UDEMY_ToDo_App_withHooks/index.html",
+    "precache-manifest.0140fb758a14050f9a83531418a7b3ec.js": "/UDEMY_ToDo_App_withHooks/precache-manifest.0140fb758a14050f9a83531418a7b3ec.js",
+    "service-worker.js": "/UDEMY_ToDo_App_withHooks/service-worker.js",
+    "static/css/main.795991f2.chunk.css.map": "/UDEMY_ToDo_App_withHooks/static/css/main.795991f2.chunk.css.map"
+  }
+}
